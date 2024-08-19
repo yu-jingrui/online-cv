@@ -94,7 +94,7 @@ experiences:
 
 projects:
     title: Projects
-    These are projects in the university.
+    intro: These are projects in the university.
     assignments:
       - title: AISafe
         link: "#"
