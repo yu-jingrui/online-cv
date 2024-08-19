@@ -97,11 +97,11 @@ projects:
     These are projects in the university.
     assignments:
       - title: AISafe
-        link: 
+        link: "#"
         tagline: "Synthetic image and depth map generation with Unity for factory robot navigation."
 
       - title: AUXILIA
-        link: 
+        link: "#"
         tagline: "Real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambiant assisted living."
 
 publications:
