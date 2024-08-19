@@ -108,7 +108,7 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images
+      - title: "NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images"
         link: "https://arxiv.org/abs/2402.18196"
         authors: Jingrui Yu, Dipankar Nandi, Roman Seidel, Gangolf Hirtz
         conference: arXiv preprint arXiv:2402.18196. 2024
