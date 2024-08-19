@@ -83,6 +83,7 @@ experiences:
         time: July 2017 - Present
         company: TU Chemnitz, Germany
         details: |
+          The focus of my research is deep learning based person detection, human pose estimation and human activity recognition for top-view fisheye cameras. In addition to algorithm development, an important aspect of the topic is data generation, especially synthetic data generation using game engine (Unity), NeRF and 3DGS.
           - Research in various projects with the focus on computer vision and machine learning
           - Teaching: Computer Vision, Python Programming for Data Science
           - Student research thesis instruction
@@ -96,13 +97,33 @@ projects:
     title: Projects
     intro: These are projects in the university.
     assignments:
+      - title: AuBBI
+        link: "#"
+        tagline: "2024: railway crossing surveillance with IR camera."
+
+      - title: ReViCaT
+        link: "#"
+        tagline: "2023 - 2024: reversing camera for freight wagon kuppling with precise distance measurement."
+
+      - title: SPREAD
+        link: "#"
+        tagline: "2023 - 2024: synthetic image and depth map generation with Unity for energy efficient and safe automated doors."
+
       - title: AISafe
         link: "#"
-        tagline: "Synthetic image and depth map generation with Unity for factory robot navigation."
+        tagline: "2022 - 2024: synthetic image and depth map generation with Unity for the navigation of automated guided vehicle (AGV)."
+
+      - title: ReFit
+        link: "#"
+        tagline: "2019 - 2021: AI assisted rehabilitation at home with real-time feedback."
+
+      - title: KIN-TUC
+        link: "#"
+        tagline: "2019 - 2021: real-time human pose estimation with deep learning."
 
       - title: AUXILIA
         link: "#"
-        tagline: "Real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambiant assisted living."
+        tagline: "2017 - 2021: real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambiant assisted living."
 
 publications:
     title: Publications
