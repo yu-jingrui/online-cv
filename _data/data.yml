@@ -99,31 +99,35 @@ projects:
     assignments:
       - title: AuBBI
         link: "#"
-        tagline: "2024: railway crossing surveillance with IR camera."
+        tagline: "railway crossing surveillance with IR camera. 2024"
+
+      - title: SWARM
+        link: "#"
+        tagline: "federated learning for autonomous driving platforms. 2024"
 
       - title: ReViCaT
         link: "#"
-        tagline: "2023 - 2024: reversing camera for freight wagon kuppling with precise distance measurement."
+        tagline: "reversing camera for freight wagon kuppling with precise distance measurement. 2023 - 2024"
 
       - title: SPREAD
         link: "#"
-        tagline: "2023 - 2024: synthetic image and depth map generation with Unity for energy efficient and safe automated doors."
+        tagline: "synthetic image and depth map generation with Unity for energy efficient and safe automated doors. 2023 - 2024"
 
       - title: AISafe
         link: "#"
-        tagline: "2022 - 2024: synthetic image and depth map generation with Unity for the navigation of automated guided vehicle (AGV)."
+        tagline: "synthetic image and depth map generation with Unity for the navigation of automated guided vehicle (AGV). 2022 - 2024"
 
       - title: ReFit
         link: "#"
-        tagline: "2019 - 2021: AI assisted rehabilitation at home with real-time feedback."
+        tagline: "AI assisted rehabilitation at home with real-time feedback. 2019 - 2021"
 
       - title: KIN-TUC
         link: "#"
-        tagline: "2019 - 2021: real-time human pose estimation with deep learning."
+        tagline: "real-time human pose estimation with deep learning. 2019 - 2021"
 
       - title: AUXILIA
         link: "#"
-        tagline: "2017 - 2021: real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambiant assisted living."
+        tagline: "real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambiant assisted living. 2017 - 2021"
 
 publications:
     title: Publications
