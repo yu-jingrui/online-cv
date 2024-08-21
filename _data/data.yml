@@ -39,7 +39,7 @@ sidebar:
         - idiom: Chinese
           level: Native
 
-        - idiom: Germen
+        - idiom: German
           level: Professional
 
         - idiom: English
@@ -75,7 +75,7 @@ education:
         time: 2010 - 2016
         details: |
           - Course of study: Biomedical Engineering
-          - Master thesis: Evaluation of Algorithms for Optical Variation Detection in Intraoperative Optical Imaging
+          - Master thesis: Evaluation of Algorithms for Optical Variation Detection in Intra-operative Optical Imaging
       
       - degree: B.Sc. in Biomedical Engineering
         university: Zhejiang University
@@ -91,7 +91,7 @@ experiences:
         details: |
           The topic of my doctoral thesis is "Realtime Person Detection, Pose Estimation and Human Activity Recognition in Indoor Omnidirectional Scenes with Deep Neural Networks". In addition to algorithm development, an important aspect of the topic is data generation, especially synthetic data generation using game engine (Unity), NeRF and 3DGS.
           Besides my doctoral research, I am engaged in other research activities:
-          - Scientifict projects with the focus on computer vision and machine learning.
+          - Scientific projects with the focus on computer vision and machine learning.
           - Research funding application.
           - Student research thesis instruction.
       
@@ -157,7 +157,7 @@ projects:
 
       - title: ReViCaT
         link: "#"
-        tagline: "reversing camera for freight wagon kuppling with precise distance measurement. 2023 - 2024"
+        tagline: "reversing camera for freight wagon coupling with precise distance measurement. 2023 - 2024"
 
       - title: SPREAD
         link: "#"
@@ -177,7 +177,7 @@ projects:
 
       - title: AUXILIA
         link: "#"
-        tagline: "real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambiant assisted living. 2017 - 2021"
+        tagline: "real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambient assisted living. 2017 - 2021"
 
 skills:
     title: Skills &amp; Proficiency
