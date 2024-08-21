@@ -61,6 +61,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am a doctoral researcher at the Chair of Digital Signal Processing and Circuit Technology at TU Chemnitz, having joined after graduating from TU Dresden. My research focuses on applying computer vision and machine learning technologies to various industrial and social domains, including rehabilitation, active assisted living, autonomous driving, and railway safety. I actively participate in teaching activities, instructing courses on basic and advanced computer vision, 3D vision, Python for data scientists, and deep learning for computer vision. My Ph.D. thesis explores real-time human detection, pose estimation, and activity recognition using top-view omnidirectional imaging with fisheye cameras.
+
 education:
     title: Education
     info:
@@ -75,7 +76,12 @@ education:
         details: |
           - Course of study: Biomedical Engineering
           - Master thesis: Evaluation of Algorithms for Optical Variation Detection in Intraoperative Optical Imaging
-
+      
+      - degree: B.S. in Biomedical Engineering
+        university: Zhejiang University
+        time: 2007 - 2009
+        details: 
+          
 experiences:
     title: Experiences
     info:
@@ -87,11 +93,54 @@ experiences:
           - Research in various projects with the focus on computer vision and machine learning
           - Teaching: Computer Vision, Python Programming for Data Science
           - Student research thesis instruction
+      
+      - role: Teaching Assistant
+        time: July 2017 - Present
+        company: TU Chemnitz, Germany
+        details: |
+          - Computer Vision I: lecturing chapters on machine learning and tracking, guiding assignments, exam evaluation.
+          - Computer Vision II: lecturing chapters on deep learning, camera geometry and 3D vision, guiding assignments, exam evaluation.
+          - Programming and Data Analysis: co-designing module structure, lecturing on python language, guiding assignments and projects, exam evaluation.
+
       - role: Research Intern
         time: May 2014 - November 2014
         company: Fraunhofer IKTS, Dresden Germany
         details: |
           - Conceptual design of a polymer reaction system
+
+publications:
+    title: Publications
+    intro: 
+    papers:
+      - title: "NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images"
+        link: "https://arxiv.org/abs/2402.18196"
+        authors: Jingrui Yu, Dipankar Nandi, Roman Seidel, Gangolf Hirtz
+        conference: arXiv preprint arXiv:2402.18196. 2024
+
+      - title: Human Pose Estimation in Monocular Omnidirectional Top-View Images
+        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Human_Pose_Estimation_in_Monocular_Omnidirectional_Top-View_Images_CVPRW_2023_paper.html"
+        authors: Jingrui Yu, Tobias Scheck, Roman Seidel, Yukti Adya, Dipankar Nandi, Gangolf Hirtz
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
+
+      - title: "Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey"
+        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Applications_of_Deep_Learning_for_Top-View_Omnidirectional_Imaging_A_Survey_CVPRW_2023_paper.html"
+        authors: Jingrui Yu, Ana Cecilia Perez Grassi, Gangolf Hirtz
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
+
+      - title: "OmniPD: One-step person detection in top-view omnidirectional indoor scenes"
+        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2019-0061/html"
+        authors: Jingrui Yu, Roman Seidel, Gangolf Hirtz
+        conference: "Current Directions in Biomedical Engineering 5.1 (2019): 239-244"
+
+      - title: Contactless Interactive Fall Detection and Sleep Quality Estimation for Supporting Elderly with Incipient Dementia
+        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2020-3100/html"
+        authors: Roman Siedel, Tobias Scheck, Ana C Perez Grassi, Julian B Seuffert, André Apitzsch, Jingrui Yu, Norbert Nestler, Danny Heinz, Lars Lehmann, Anne Goy, Gangolf Hirtz
+        conference: "Current Directions in Biomedical Engineering 6.3 (2020): 388-391"
+
+      - title: "Auxilia: Nutzerzentriertes assistenz-und sicherheitssystem zur unterstützung von menschen mit demenz auf basis intelligenter verhaltensanalyse"
+        link: "https://www.bibliothek.tu-chemnitz.de/ojs/index.php/awlC/article/view/236"
+        authors: Roman Seidel, André Apitzsch, Jingrui Yu, Julian Seuffert, Norbert Nestler, Danny Heinz, Anne Goy, Gangolf Hirtz
+        conference: aw&I Conference, 2018
 
 projects:
     title: Projects
@@ -128,41 +177,6 @@ projects:
       - title: AUXILIA
         link: "#"
         tagline: "real-time person detection and human pose estimation with deep learning for indoor top-view fisheye camera in ambiant assisted living. 2017 - 2021"
-
-publications:
-    title: Publications
-    intro: 
-    papers:
-      - title: "NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images"
-        link: "https://arxiv.org/abs/2402.18196"
-        authors: Jingrui Yu, Dipankar Nandi, Roman Seidel, Gangolf Hirtz
-        conference: arXiv preprint arXiv:2402.18196. 2024
-
-      - title: Human Pose Estimation in Monocular Omnidirectional Top-View Images
-        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Human_Pose_Estimation_in_Monocular_Omnidirectional_Top-View_Images_CVPRW_2023_paper.html"
-        authors: Jingrui Yu, Tobias Scheck, Roman Seidel, Yukti Adya, Dipankar Nandi, Gangolf Hirtz
-        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
-
-      - title: "Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey"
-        link: "https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Yu_Applications_of_Deep_Learning_for_Top-View_Omnidirectional_Imaging_A_Survey_CVPRW_2023_paper.html"
-        authors: Jingrui Yu, Ana Cecilia Perez Grassi, Gangolf Hirtz
-        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023
-
-      - title: "OmniPD: One-step person detection in top-view omnidirectional indoor scenes"
-        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2019-0061/html"
-        authors: Jingrui Yu, Roman Seidel, Gangolf Hirtz
-        conference: "Current Directions in Biomedical Engineering 5.1 (2019): 239-244"
-
-      - title: Contactless Interactive Fall Detection and Sleep Quality Estimation for Supporting Elderly with Incipient Dementia
-        link: "https://www.degruyter.com/document/doi/10.1515/cdbme-2020-3100/html"
-        authors: Roman Siedel, Tobias Scheck, Ana C Perez Grassi, Julian B Seuffert, André Apitzsch, Jingrui Yu, Norbert Nestler, Danny Heinz, Lars Lehmann, Anne Goy, Gangolf Hirtz
-        conference: "Current Directions in Biomedical Engineering 6.3 (2020): 388-391"
-
-      - title: "Auxilia: Nutzerzentriertes assistenz-und sicherheitssystem zur unterstützung von menschen mit demenz auf basis intelligenter verhaltensanalyse"
-        link: "https://www.bibliothek.tu-chemnitz.de/ojs/index.php/awlC/article/view/236"
-        authors: Roman Seidel, André Apitzsch, Jingrui Yu, Julian Seuffert, Norbert Nestler, Danny Heinz, Anne Goy, Gangolf Hirtz
-        conference: aw&I Conference, 2018
-
 
 skills:
     title: Skills &amp; Proficiency
