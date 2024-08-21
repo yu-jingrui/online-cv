@@ -77,7 +77,7 @@ education:
           - Course of study: Biomedical Engineering
           - Master thesis: Evaluation of Algorithms for Optical Variation Detection in Intraoperative Optical Imaging
       
-      - degree: B.S. in Biomedical Engineering
+      - degree: B.Sc. in Biomedical Engineering
         university: Zhejiang University
         time: 2007 - 2009
         details: 
@@ -89,10 +89,11 @@ experiences:
         time: July 2017 - Present
         company: TU Chemnitz, Germany
         details: |
-          The focus of my research is deep learning based person detection, human pose estimation and human activity recognition for top-view fisheye cameras. In addition to algorithm development, an important aspect of the topic is data generation, especially synthetic data generation using game engine (Unity), NeRF and 3DGS.
-          - Research in various projects with the focus on computer vision and machine learning
-          - Teaching: Computer Vision, Python Programming for Data Science
-          - Student research thesis instruction
+          The topic of my doctoral thesis is "Realtime Person Detection, Pose Estimation and Human Activity Recognition in Indoor Omnidirectional Scenes with Deep Neural Networks". In addition to algorithm development, an important aspect of the topic is data generation, especially synthetic data generation using game engine (Unity), NeRF and 3DGS.
+          Besides my doctoral research, I am engaged in other research activities:
+          - Scientifict projects with the focus on computer vision and machine learning.
+          - Research funding application.
+          - Student research thesis instruction.
       
       - role: Teaching Assistant
         time: July 2017 - Present
@@ -144,7 +145,7 @@ publications:
 
 projects:
     title: Projects
-    intro: These are projects in the university.
+    intro: 
     assignments:
       - title: AuBBI
         link: "#"
